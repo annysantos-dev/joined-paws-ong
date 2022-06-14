@@ -14,5 +14,7 @@ Interface
 Para executar o front-end usar o comando: yarn run dev  
 
 URL da página inicial:  http://localhost:3000/
+
 URL para criar um pet: http://localhost:3000/pets/create
+
 URL para visualizar relatório das solicitações de adoção: http://localhost:3000/pets/report
